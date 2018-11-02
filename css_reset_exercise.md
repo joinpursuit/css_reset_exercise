@@ -29,3 +29,12 @@ Beyond these settings, the design team wants **no default styling** whatsoever.
     - `font-family`
     - `font-size`
     - `background-color`
+
+
+*// //*
+
+https://www.w3schools.com/css/css_list.asp
+
+running scared man transparent icon
+
+./assets/closeUpMan.png, https://rpelm.com/images/scooby-doo-clipart-19.png
