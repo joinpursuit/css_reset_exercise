@@ -4,10 +4,14 @@ Inside this folder, you'll find an HTML file called `index.html`. It should look
 
 Your boss doesn't want you to write exact CSS yet, but their design team has a few basic ideas for what they want it to be. These ideas are as follows:
 
-- All text should be _sans-serif_. Most default text rendering in browsers (without an explicit CSS file) renders text in _serif_ font.
-- All `p` tags should have 20 pixels of padding on the top and the bottom - _not_ on the sides.
-- All images should be 200 pixels tall.
-- Header tags (`h1`, `h2`, etc.) should be closer in size to each other. Management would like `h1` to have a 25px font size and all other `h` tags to have a 20px font size.
+<!-- - All text should be _sans-serif_. Most default text rendering in browsers (without an explicit CSS file) renders text in _serif_ font. -->
+
+<!-- - All `p` tags should have 20 pixels of padding on the top and the bottom - _not_ on the sides. -->
+
+<!-- - All images should be 200 pixels tall. -->
+<!--
+- Header tags (`h1`, `h2`, etc.) should be closer in size to each other. Management would like `h1` to have a 25px font size and all other `h` tags to have a 20px font size. -->
+
 - Lists should have 30px of padding on the left.
 - The `background-color` of the entire `body` should be `limegreen`. CSS should understand what that means.
 
